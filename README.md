@@ -1,3 +1,5 @@
 # OMRails
-primera aplicacion, prueba 2
+Primera aplicacion, Prueba 2
+
+
 Andrés Garat
